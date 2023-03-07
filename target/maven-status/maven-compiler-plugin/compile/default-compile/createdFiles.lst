@@ -1,0 +1,11 @@
+com/academy/pokemon/pokeapi/services/PokeService.class
+com/academy/pokemon/pokeapi/models/Pokemon.class
+com/academy/pokemon/pokeapi/models/LocationArea.class
+com/academy/pokemon/pokeapi/models/Ability.class
+com/academy/pokemon/pokeapi/models/Item.class
+com/academy/pokemon/pokeapi/RestTemplateConfig.class
+com/academy/pokemon/pokeapi/models/LocationAreaEncounter.class
+com/academy/pokemon/pokeapi/controllers/PokeController.class
+com/academy/pokemon/pokeapi/models/AbilityItem.class
+com/academy/pokemon/pokeapi/models/HeldItem.class
+com/academy/pokemon/pokeapi/PokeapiApplication.class

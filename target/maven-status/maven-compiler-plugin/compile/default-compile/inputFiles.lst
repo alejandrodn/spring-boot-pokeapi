@@ -1,0 +1,11 @@
+/Users/ben/Development/Spring Boot/pokeapi/src/main/java/com/academy/pokemon/pokeapi/models/Ability.java
+/Users/ben/Development/Spring Boot/pokeapi/src/main/java/com/academy/pokemon/pokeapi/models/Item.java
+/Users/ben/Development/Spring Boot/pokeapi/src/main/java/com/academy/pokemon/pokeapi/models/HeldItem.java
+/Users/ben/Development/Spring Boot/pokeapi/src/main/java/com/academy/pokemon/pokeapi/models/LocationArea.java
+/Users/ben/Development/Spring Boot/pokeapi/src/main/java/com/academy/pokemon/pokeapi/models/AbilityItem.java
+/Users/ben/Development/Spring Boot/pokeapi/src/main/java/com/academy/pokemon/pokeapi/services/PokeService.java
+/Users/ben/Development/Spring Boot/pokeapi/src/main/java/com/academy/pokemon/pokeapi/PokeapiApplication.java
+/Users/ben/Development/Spring Boot/pokeapi/src/main/java/com/academy/pokemon/pokeapi/models/Pokemon.java
+/Users/ben/Development/Spring Boot/pokeapi/src/main/java/com/academy/pokemon/pokeapi/RestTemplateConfig.java
+/Users/ben/Development/Spring Boot/pokeapi/src/main/java/com/academy/pokemon/pokeapi/models/LocationAreaEncounter.java
+/Users/ben/Development/Spring Boot/pokeapi/src/main/java/com/academy/pokemon/pokeapi/controllers/PokeController.java
